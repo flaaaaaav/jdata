@@ -1,0 +1,89 @@
+{
+  "proyectos": [
+    {
+      "tipo": "responsive",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#HTML #CSS #responsive",
+      "titulo": "Portfolio",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "tipo": "responsive",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#HTML #CSS #responsive",
+      "titulo": "Título 1",
+      "descripcion": "Descripción del proyecto 1"
+    },
+    {
+      "tipo": "responsive",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#HTML #CSS #responsive",
+      "titulo": "Título 1",
+      "descripcion": "Descripción del proyecto 1"
+    },
+    {
+      "tipo": "responsive",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#HTML #CSS #responsive",
+      "titulo": "Título 1",
+      "descripcion": "Descripción del proyecto 1"
+    },
+    {
+      "tipo": "javascript",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#Javascript",
+      "titulo": "Título 3",
+      "descripcion": "Descripción del proyecto 3"
+    },
+    {
+      "tipo": "react",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#React",
+      "titulo": "Título 4",
+      "descripcion": "Descripción del proyecto 4"
+    },
+    {
+      "tipo": "react",
+      "imagen": "./img/portfolio_1.png",
+      "hashtag": "#React",
+      "titulo": "Título 4",
+      "descripcion": "Descripción del proyecto 4"
+    }
+  ],
+  "certificados": [
+    {
+      "titulo": "Front-end Developer",
+      "foto": "./img/diploma.jpg",
+      "matricula": "Front-end Developer",
+      "fecha": "Feb 2020 - Feb 2021"
+    },
+    {
+      "titulo": "Otro Certificado",
+      "foto": "./img/diploma.jpg",
+      "matricula": "Otro Certificado",
+      "fecha": "Mar 2021 - Mar 2022"
+    },
+    {
+      "titulo": "Certificado 3",
+      "foto": "./img/diploma.jpg",
+      "matricula": "Certificado 3",
+      "fecha": "Abr 2022 - Abr 2023"
+    }
+  ],
+  "experiencia": [
+    {
+      "empresa": "Adidas",
+      "logo": "./img/adidas.svg",
+      "fecha": "Feb 2022 - Actualidaad",
+      "puesto": "Front-end Developer",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
+    },
+    {
+      "empresa": "Adidas",
+      "logo": "./img/adidas.svg",
+      "fecha": "Feb 2022 - Actualidad",
+      "puesto": "Desarrollador Web",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
+    }
+  ]
+}
