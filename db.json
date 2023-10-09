@@ -29,80 +29,24 @@
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "tipo": "responsive",
-      "imagen": "./img/portfolio_responsive.png",
-      "hashtag": "#HTML #CSS #responsive",
-      "titulo": "Portfolio Responsive 4",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
       "tipo": "javascript",
       "imagen": "./img/portfolio_javascript.png",
       "hashtag": "#Javascript",
-      "titulo": "Portfolio Javascript 2",
+      "titulo": "Portfolio Javascript 1",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
       "tipo": "react",
       "imagen": "./img/portfolio_javascript.png",
       "hashtag": "#Javascript",
-      "titulo": "Portfolio Javascript 2",
+      "titulo": "Portfolio React 1",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
       "tipo": "react",
       "imagen": "./img/portfolio_react.png",
       "hashtag": "#React",
-      "titulo": "Portfolio React 1",
+      "titulo": "Portfolio React 2",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ],
