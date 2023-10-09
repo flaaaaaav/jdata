@@ -58,15 +58,15 @@
       "fecha": "Feb 2020 - Feb 2021"
     },
     {
-      "titulo": "Otro Certificado",
+      "titulo": "Front-end Developer",
       "foto": "./img/diploma.jpg",
-      "matricula": "Otro Certificado",
+      "matricula": "Front-end Developer",
       "fecha": "Mar 2021 - Mar 2022"
     },
     {
-      "titulo": "Certificado 3",
+      "titulo": "Front-end Developer",
       "foto": "./img/diploma.jpg",
-      "matricula": "Certificado 3",
+      "matricula": "Front-end Developer",
       "fecha": "Abr 2022 - Abr 2023"
     }
   ],
@@ -82,7 +82,7 @@
       "empresa": "Adidas",
       "logo": "./img/adidas.svg",
       "fecha": "Feb 2022 - Actualidad",
-      "puesto": "Desarrollador Web",
+      "puesto": "Front-end Developer",
       "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
     }
   ]
